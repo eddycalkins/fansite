@@ -1,0 +1,32 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #C4A484
+}
+h1 {
+  font-family: "DynaPuff", system-ui;
+   color: ghostwhite;
+  background-color: lightpink;
+  padding: 10px 100px 10px 100px;
+  text-align: center;
+}
+
+.homebullet{
+  padding: 0 10px 50px 0
+  
+}
+
+tr{
+  font-family: "Open Sans", sans-serif;
+}
+
+.tablebkgd{
+  background-color:ghostwhite;
+  font-family: "Open Sans", sans-serif; 
+padding: 10px 50px 10px 50px;
+}
+
+.homeimg{
+  float: right;
+  padding: 0 100px 50px 0;
+}
+
